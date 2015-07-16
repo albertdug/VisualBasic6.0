@@ -1,0 +1,8 @@
+frmclientes = -178, 133, 593, 589, C, -208, 88, 608, 604, C
+Module1 = -259, 184, 512, 640, C
+frmcatalogoClientes = 44, 50, 822, 514, C, 22, 25, 563, 585, C
+frmarticulos = 93, 120, 586, 584, C, -179, 81, 663, 545, C
+frmcatalogoArticulos = 51, 64, 669, 528, C, -185, 41, 592, 564, C
+frmclaves = -34, 162, 565, 626, C, -177, 38, 635, 502, C
+frmcatalogoClaves = 79, 115, 572, 579, C, 34, 19, 811, 583, C
+frmfacturas = 138, 52, 631, 516, C, -6, -1, 942, 663, C
