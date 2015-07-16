@@ -1,0 +1,25 @@
+Línea 130: la clase MSACAL.Calendar del control Calendar1 no era una clase de control cargada.
+Línea 136: el nombre de la propiedad _Version de Calendar1 no es válido.
+Línea 137: el nombre de la propiedad _ExtentX de Calendar1 no es válido.
+Línea 138: el nombre de la propiedad _ExtentY de Calendar1 no es válido.
+Línea 139: el nombre de la propiedad _StockProps de Calendar1 no es válido.
+Línea 141: el nombre de la propiedad Year de Calendar1 no es válido.
+Línea 142: el nombre de la propiedad Month de Calendar1 no es válido.
+Línea 143: el nombre de la propiedad Day de Calendar1 no es válido.
+Línea 144: el nombre de la propiedad DayLength de Calendar1 no es válido.
+Línea 145: el nombre de la propiedad MonthLength de Calendar1 no es válido.
+Línea 146: el nombre de la propiedad DayFontColor de Calendar1 no es válido.
+Línea 147: el nombre de la propiedad FirstDay de Calendar1 no es válido.
+Línea 148: el nombre de la propiedad GridCellEffect de Calendar1 no es válido.
+Línea 149: el nombre de la propiedad GridFontColor de Calendar1 no es válido.
+Línea 150: el nombre de la propiedad GridLinesColor de Calendar1 no es válido.
+Línea 151: el nombre de la propiedad ShowDateSelectors de Calendar1 no es válido.
+Línea 152: el nombre de la propiedad ShowDays de Calendar1 no es válido.
+Línea 153: el nombre de la propiedad ShowHorizontalGrid de Calendar1 no es válido.
+Línea 154: el nombre de la propiedad ShowTitle de Calendar1 no es válido.
+Línea 155: el nombre de la propiedad ShowVerticalGrid de Calendar1 no es válido.
+Línea 156: el nombre de la propiedad TitleFontColor de Calendar1 no es válido.
+Línea 157: el nombre de la propiedad ValueIsNull de Calendar1 no es válido.
+Línea 166: el nombre de la propiedad DayFont de Calendar1 no es válido.
+Línea 175: el nombre de la propiedad GridFont de Calendar1 no es válido.
+Línea 184: el nombre de la propiedad TitleFont de Calendar1 no es válido.

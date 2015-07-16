@@ -1,0 +1,15 @@
+menusistema = 22, 29, 666, 375, C, 44, 58, 736, 629, C
+AsignarPrestamo = 44, 58, 688, 404, , 5, -14, 692, 476, C
+RegistrarBancos = -32, 114, 612, 460, C, -9, 3, 635, 424, C
+GuardarTipoPrestamo = 0, 0, 644, 346, C, 21, 17, 665, 383, C
+RegistrarAporte = -15, 106, 624, 452, C, 48, 1, 687, 485, C
+RegistrarSocio = 66, 87, 705, 433, C, 22, 29, 704, 475, C
+RegistrarRetiro = 22, 29, 661, 375, C, 3, 8, 685, 513, C
+registrarcuentabancaria = 125, 125, 662, 560, C, 47, 2, 645, 348, C
+registrarcheque = 0, 0, 598, 346, C, -25, 4, 629, 350, C
+anularcheque = 200, 200, 737, 635, C, 18, 7, 616, 353, C
+Registrarpago = 66, 87, 664, 433, C, 44, 58, 642, 472, C
+simularprestamo = 0, 0, 598, 346, C, 77, 64, 675, 410, C
+Generarusuario = 110, 145, 708, 491, C, 37, 36, 668, 421, C
+EstadodeCuenta = 44, 58, 642, 404, C, 22, 29, 620, 375, C
+PRINCIPAL = 22, 29, 620, 375, C, 0, 0, 648, 394, C
